@@ -1,1 +1,1 @@
-# flaskDock
+type: docker compose up
